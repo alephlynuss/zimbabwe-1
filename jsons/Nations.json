@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Zimbabwe",
+		"leaderName": "Chikura Wadyembeau",
+		"adjective": ["zimbabwe"],
+		"startBias": ["Plain"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
